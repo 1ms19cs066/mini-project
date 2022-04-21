@@ -1,3 +1,3 @@
 #Mini-project
 
-Speech Recognition in Smartphones to support a regional language using Federated Learning.
+Speech Recognition in Smartphones to support a Regional Language using Federated Learning.
